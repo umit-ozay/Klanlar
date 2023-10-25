@@ -1,2 +1,2 @@
 # Klanlar
-Klanlar köy yağmalarken consoleden kullanabileceğiniz pratik bir javascript kodudur.
+Klanlar köy yağmalarken console üstünden kullanabileceğiniz pratik bir javascript kodudur.
